@@ -18,6 +18,6 @@ development:
 #   <<: *common
 #   database: travelshopa_staging
 
-# production:
-#   <<: *common
-#   database: travelshopa_production
+production:
+  <<: *common
+  database: demo_prod
